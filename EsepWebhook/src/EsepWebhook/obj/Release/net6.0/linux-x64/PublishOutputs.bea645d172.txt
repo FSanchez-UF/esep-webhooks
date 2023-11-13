@@ -1,0 +1,6 @@
+C:\Users\Sanchez Fam\Desktop\Fall23\CIS4930\Event-Driven_Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.deps.json
+C:\Users\Sanchez Fam\Desktop\Fall23\CIS4930\Event-Driven_Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.runtimeconfig.json
+C:\Users\Sanchez Fam\Desktop\Fall23\CIS4930\Event-Driven_Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.pdb
+C:\Users\Sanchez Fam\Desktop\Fall23\CIS4930\Event-Driven_Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Sanchez Fam\Desktop\Fall23\CIS4930\Event-Driven_Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Sanchez Fam\Desktop\Fall23\CIS4930\Event-Driven_Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.dll
